@@ -90,7 +90,7 @@ elif st.session_state.halaman == "surat":
 
                 hii bess!!!
                 hehe kayaknya aku lebih sering manggil kamu bess ya daripada cep/pe
-
+                </p>
                 disclaimer aku gabisa nulis kata kata kek gini and sorry for my broken english *SUMPAH BES GRAMMAR SUSAH POLL
 
                 our story began on 2nd march, anjayy. zuzurr nih dlu tkut bgt bakalan sendiri krna yah i don’t like odd number and i’m the only one math in here, but unexpectedly kita malah sering barengg. i think that you’re o.de to my life, krna klo kata gaon, o.de can match energy people around him. AND THAT’S YOU BESS!!!
