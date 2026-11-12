@@ -82,7 +82,7 @@ elif st.session_state.halaman == "surat":
             color:#333333;
             line-height:1.8;
             white-space:pre-wrap;
-            overflow-wrap:break-word;
+            overflow-wrap:anywhere;
         ">
             <p style="text-align:right; color:#888888;">
                a little bit of words for cepe
@@ -112,9 +112,7 @@ elif st.session_state.halaman == "surat":
             </div>
             
         </div>
-        """,
-        unsafe_allow_html=True
-    )
+        """))
 
     if st.button("Continue to Dashboard →",
                  use_container_width=True):
