@@ -159,6 +159,6 @@ elif st.session_state.halaman == "dashboard":
 
     st.divider()
 
-    if st.button("Logout"):
+    if st.button("Done"):
         st.session_state.clear()
         st.rerun()
