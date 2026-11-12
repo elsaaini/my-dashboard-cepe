@@ -81,12 +81,13 @@ elif st.session_state.halaman == "surat":
             border-radius:15px;
             color:#333333;
             line-height:1.8;
+            overflow-wrap:break-word;
+            word-wrap:break-word;
         ">
             <p style="text-align:right; color:#888888;">
                a little bit of words for cepe
             </p>
 
-            <h2 style="font-family:Georgia;">
                 hii bess!!!
                 hehe kayaknya aku lebih sering manggil kamu bess ya daripada cep/pe
 
