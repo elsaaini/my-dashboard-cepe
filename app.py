@@ -30,7 +30,7 @@ if "halaman" not in st.session_state:
 if st.session_state.halaman == "login":
 
     st.markdown(
-        "<h1 style='text-align:center;'>Welcome</h1>",
+        "<h1 style='text-align:center;'>Hi, Cewe Gaon! </h1>",
         unsafe_allow_html=True
     )
 
