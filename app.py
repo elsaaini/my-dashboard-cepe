@@ -2,6 +2,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import textwrap
 
 # =========================
 # 1. KONFIGURASI WEBSITE
@@ -71,7 +72,7 @@ if st.session_state.halaman == "login":
 
 elif st.session_state.halaman == "surat":
 
-    st.markdown(
+    st.html(textwrap.dedent(
         """
         <div style="
             max-width:650px;
