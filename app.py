@@ -78,19 +78,19 @@ elif st.session_state.halaman == "surat":
             margin:50px auto;
             padding:40px;
             background:#faf7f0;
-            border-radius:15px;
             color:#333333;
             line-height:1.8;
+            white-space:pre-wrap;
             overflow-wrap:break-word;
-            word-wrap:break-word;
         ">
             <p style="text-align:right; color:#888888;">
                a little bit of words for cepe
-            </p>
-
+            <\p>
+            
+            <div>
                 hii bess!!!
                 hehe kayaknya aku lebih sering manggil kamu bess ya daripada cep/pe
-                </p>
+                
                 disclaimer aku gabisa nulis kata kata kek gini and sorry for my broken english *SUMPAH BES GRAMMAR SUSAH POLL
 
                 our story began on 2nd march, anjayy. zuzurr nih dlu tkut bgt bakalan sendiri krna yah i don’t like odd number and i’m the only one math in here, but unexpectedly kita malah sering barengg. i think that you’re o.de to my life, krna klo kata gaon, o.de can match energy people around him. AND THAT’S YOU BESS!!!
@@ -108,6 +108,8 @@ elif st.session_state.halaman == "surat":
                 duh i hate that the world giving words “come” and “go”, tapi mayb i’m just a small part of your life but the memories that we spent together semoga gapernah kamu lupain yaa bess. sangat sangat berharap we don’t lost contact and still chatting as much as we do, i’ll really sad if it happens. thank you bess for the memories we made. time flies so fast but memories will last forever. goodbye it’s bittersweet, but it’s not the end, i’ll see your face again.
 
                 — cewe jungsu, elsa <3
+            </div>
+            
         </div>
         """,
         unsafe_allow_html=True
