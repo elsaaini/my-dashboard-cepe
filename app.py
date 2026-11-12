@@ -25,6 +25,7 @@ if "halaman" not in st.session_state:
 # 2. HALAMAN LOGIN
 # =========================
 
+
 if st.session_state.halaman == "login":
 
     st.markdown(
@@ -32,7 +33,7 @@ if st.session_state.halaman == "login":
         unsafe_allow_html=True
     )
 
-   st.markdown(
+    st.markdown(
         """
         <div style="text-align:center;">
             <p>Please enter your password to continue.</p>
