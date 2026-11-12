@@ -33,15 +33,15 @@ if st.session_state.halaman == "login":
     )
 
    st.markdown(
-    """
-    <div style="text-align:center;">
-        <p>Please enter your password to continue.</p>
-        <p style="font-size:13px; color:gray;">
-            Clue: the most beautiful instrumental of an xdiz song (11 letters)
-        </p>
-    </div>
-    """,
-    unsafe_allow_html=True
+        """
+        <div style="text-align:center;">
+            <p>Please enter your password to continue.</p>
+            <p style="font-size:13px; color:gray;">
+                Clue: the most beautiful instrumental of an xdiz song (11 letters)
+            </p>
+        </div>
+        """,
+        unsafe_allow_html=True
     )
 
     with st.form("login_form"):
